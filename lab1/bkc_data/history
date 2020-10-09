@@ -1,0 +1,15 @@
+admin.addPeer("enode://7320559847736145843099b94c6c67d52c3abd4af42200dde25557d58da3f36358b6a029ff37058461ee5e627aed6fb55386c3e334b54fa35480aee4ea73eb61@128.230.208.73:30303")
+admin.peers
+admin.addPeer("enode://7320559847736145843099b94c6c67d52c3abd4af42200dde25557d58da3f36358b6a029ff37058461ee5e627aed6fb55386c3e334b54fa35480aee4ea73eb61@128.230.208.73:30303")
+admin.peers
+admin.addPeer("enode://7320559847736145843099b94c6c67d52c3abd4af42200dde25557d58da3f36358b6a029ff37058461ee5e627aed6fb55386c3e334b54fa35480aee4ea73eb61@128.230.208.73:30303")
+admin.peers
+eth.accounts
+aadmin.peers
+admin.peers
+eth.accounts
+web3.fromWei(eth.getBalance(eth.accounts[0]),"ether")
+eth.accounts
+miner.setEtherbase(ethaccounts[1])
+miner.setEtherbase(eth.accounts[1])
+eth.accounts
