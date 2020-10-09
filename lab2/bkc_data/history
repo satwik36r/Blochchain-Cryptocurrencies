@@ -1,0 +1,55 @@
+admin.addPeer("enode://7320559847736145843099b94c6c67d52c3abd4af42200dde25557d58da3f36358b6a029ff37058461ee5e627aed6fb55386c3e334b54fa35480aee4ea73eb61@128.230.208.73:30303")
+admin.peers
+admin.addPeer("enode://7320559847736145843099b94c6c67d52c3abd4af42200dde25557d58da3f36358b6a029ff37058461ee5e627aed6fb55386c3e334b54fa35480aee4ea73eb61@128.230.208.73:30303")
+admin.peers
+admin.addPeer("enode://7320559847736145843099b94c6c67d52c3abd4af42200dde25557d58da3f36358b6a029ff37058461ee5e627aed6fb55386c3e334b54fa35480aee4ea73eb61@128.230.208.73:30303")
+admin.peers
+eth.accounts
+aadmin.peers
+admin.peers
+eth.accounts
+web3.fromWei(eth.getBalance(eth.accounts[0]),"ether")
+eth.accounts
+miner.setEtherbase(ethaccounts[1])
+miner.setEtherbase(eth.accounts[1])
+eth.accounts
+admin.addPeer("enode://ea2c929277e57dc6d89000ea6e35e0ffc8274e0c35e43d518d734277d3221785daf6a53cb01ab54e75b78c887c9a37acb59eaca7a0da8f8a562ca85e354e325a@[128.230.208.73]:30303")
+loadScript("hello.abi")
+loadScript("hello.bin")
+helloVar.greeter.sendTransaction("hello Satwik Hosamani", {from:eth.accounts[0],gas:700000})
+eth.getBalance(eth.accounts[0])
+admin.addPeer("enode://ea2c929277e57dc6d89000ea6e35e0ffc8274e0c35e43d518d734277d3221785daf6a53cb01ab54e75b78c887c9a37acb59eaca7a0da8f8a562ca85e354e325a@[128.230.208.73]:30303")
+eth.accounts
+loadScript("hello.abi")
+loadScript("hello.bin")
+helloVar.greeter.sendTransaction("Hello from Satwik", {from: eth.accounts[0], gas:700000})
+eth.getBalance(eth.accounts[0])
+eth.getBalance(eth.accounts[0], "ether")
+admin.addPeer("enode://7320559847736145843099b94c6c67d52c3abd4af42200dde25557d58da3f36358b6a029ff37058461ee5e627aed6fb55386c3e334b54fa35480aee4ea73eb61@128.230.208.73:30303")
+loadScript("hello.abi")
+loadScript("hello.bin")
+helloVar.greeter.sendTransaction("Hello from Satwik", {from: eth.accounts[0], gas:700000})
+admin.addPeer("enode://7320559847736145843099b94c6c67d52c3abd4af42200dde25557d58da3f36358b6a029ff37058461ee5e627aed6fb55386c3e334b54fa35480aee4ea73eb61@128.230.208.73:30303")
+eth.accounts
+eth.getBalance(eth.accounts[0])
+eth.getBalance(eth.accounts[1])
+eth.getBalance(eth.accounts[0], "ether")
+eth.getBalance(eth.accounts[1], "ether")
+clear
+loadScript("hello.abi")
+loadScript("hello.bin")
+admin.addPeer("enode://7320559847736145843099b94c6c67d52c3abd4af42200dde25557d58da3f36358b6a029ff37058461ee5e627aed6fb55386c3e334b54fa35480aee4ea73eb61@128.230.208.73:30303")
+eth.getBalance(eth.accounts[0])
+loadScript("hello.abi")
+loadScript("hello.bin")
+helloVar.greeter
+helloVar.greeter.sendStransaction("Hello satwik", {from:eth.accounts[0], gas:700000})
+helloVar.greeter.sendTransaction("Hello satwik", {from:eth.accounts[0], gas:700000})
+helloVar.greet.call()
+exit()
+admin.addPeer("enode://7320559847736145843099b94c6c67d52c3abd4af42200dde25557d58da3f36358b6a029ff37058461ee5e627aed6fb55386c3e334b54fa35480aee4ea73eb61@128.230.208.73:30303")
+loadScript("findmaximu.bin")
+loadScript("findmaximum.bin")
+findmaxVar.maximum.sendTransaction(20,50,{from:eth.accounts[0],gas:700000})
+findmaxVar.maximum.call(20,50)
+50
