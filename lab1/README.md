@@ -1,4 +1,4 @@
-Lab 1: Blockchain Storage and Mining on Campus
+ Blockchain Storage and Mining on Campus
 ===
 
 In this lab, you are given the initial state that a custom Blockchain network of several miners is hosted on an on-campus machine which has been running for several days before the class. The Blockchain machine also runs a daemon that periodically instructs some miner to conduct transactions with other miners.
@@ -12,7 +12,7 @@ Prerequisite
 1. Linux shell commands
 2. Understand [Ethereum](http://www.ethdocs.org/en/latest/introduction/index.html)
 
-Lab Environment Setup
+Environment Setup
 ---
 
 ### 1A. Download our VM with Ethereum 
@@ -173,7 +173,7 @@ If you find your account has non-zero balance, you get some coins through mining
 The list of `Geth` commands can be found on [[this page](https://github.com/ethereum/go-ethereum/wiki/Management-APIs)].
 
 
-Lab Tasks
+Tasks Performed
 ---
 
 The tasks in this lab require to inspect and modify the content of Blockchain. In addition to the Ethereum commands you used  above, there are other relevant commands as below.
@@ -207,14 +207,6 @@ Note 1: The above command will return a hash tag which served as the ID of the t
 
 Note 2: [Ether](http://www.ethdocs.org/en/latest/ether.html) is the name of the currency used within Ethereum. Wei is the smallest unit in Ethereum. 1 Ether = 10^18 Wei. The account balance and transfer amount are shown in Wei. You can use the converter utility web3.fromWei and web3.toWei to convert between Ether and Wei. 
 
-
-Deliverable
----
-
-- For each task, the deliverable includes the following:
-    1. The script program of the Geth commands
-    2. The screenshot that shows your script has run successfully on your computer
-        - Make sure include your name in the screenshot. You can, for example, open a text editor with your name in it. 
 
 FAQ/Trouble shooting
 ---
